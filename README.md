@@ -4,8 +4,8 @@ Lightpack project with Prismatik flavour
 
 
 Forked (by danteali) on 14th Dec 2016 just in case source repo disappears. Also grabbed Windows and Linux binaries:
-https://github.com/danteali/Lightpack/blob/master/Prismatik.unofficial.64bit.Setup.5.11.2.11.exe
-https://github.com/danteali/Lightpack/blob/master/prismatik_5.11.2.11_amd64.deb
+https://github.com/danteali/Lightpack/blob/master/binaries/Prismatik.unofficial.64bit.Setup.5.11.2.11.exe
+https://github.com/danteali/Lightpack/blob/master/binaries/prismatik_5.11.2.11_amd64.deb
 
 
 **Table of content:** <br />
